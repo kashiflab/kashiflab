@@ -5,5 +5,3 @@
 - 🚀 Built numerous B2B and B2C applications, delivering high-quality solutions for a variety of clients and industries.
 
 - ✨ Passionate about clean code, user-centric design, and staying up-to-date with the latest technologies and trends in mobile development.
-
-- :
